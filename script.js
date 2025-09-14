@@ -41,3 +41,5 @@ const joinedFortunes = (fortunes) => {
 };
 
 joinedFortunes(fortunes);
+
+// Example Output:
